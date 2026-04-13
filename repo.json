@@ -1,0 +1,7 @@
+[
+  {
+    "name": "Contoh Plugin",
+    "url": "https://raw.githubusercontent.com/USERNAME/cloudstream-repo/main/plugins/contoh.cs3",
+    "version": 1
+  }
+]
