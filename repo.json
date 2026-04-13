@@ -1,7 +1,9 @@
-[
-  {
-    "name": "Ndryx Plugin",
-    "url": "https://raw.githubusercontent.com/ndryxplay/nontonyuk/refs/heads/builds/plugins.json",
-    "version": 1
-  }
-]
+{
+    "name": "NontonYuk",
+    "description": "Cloudstream extensions collection",
+    "iconUrl": "https://avatars.githubusercontent.com/u/114850487?v=4",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/ndryxplay/nontonyuk/refs/heads/builds/plugins.json"
+    ]
+}
