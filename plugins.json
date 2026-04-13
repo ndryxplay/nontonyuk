@@ -1,0 +1,25 @@
+[    
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sflix.film&size=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ndryxplay/nontonyuk",
+        "fileSize": 29979,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Duro92"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "Sflix",
+        "description": "Sflix - Movie & Series subtitle indonesia",
+        "url": "https://raw.githubusercontent.com/ndryxplay/nontonyuk/builds/Sflix.cs3",
+        "name": "Sflix"
+    },    
+]
