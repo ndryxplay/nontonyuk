@@ -1,0 +1,25 @@
+[
+    {
+        "jarFileSize": 128266,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/duro92/ExtCloud",
+        "fileSize": 29980,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Duro92"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "Sflix",
+        "jarUrl": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Sflix.jar",
+        "description": "Sflix - Movie & Series subtitle indonesia",
+        "url": "https://raw.githubusercontent.com/ndryxplay/nontonyuk/builds/plugins/Sflix.cs3",
+        "name": "Sflix"
+    }
+]
