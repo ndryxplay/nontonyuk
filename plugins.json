@@ -20,25 +20,5 @@
         "description": "Sflix - Movie & Series subtitle indonesia",
         "url": "https://raw.githubusercontent.com/ndryxplay/nontonyuk/refs/heads/builds/Sflix.cs3",
         "name": "Sflix"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/ndryxplay/nontonyuk/refs/heads/builds/MovieBoxProvider/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/ndryxplay/nontonyuk",
-        "fileSize": 55189,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "nontonyuk"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 13,
-        "internalName": "MovieBoxProvider",
-        "description": "Multi Language Movies and Series Provider",
-        "url": "https://raw.githubusercontent.com/ndryxplay/nontonyuk/refs/heads/builds/MovieBoxProvider.cs3",
-        "name": "MovieBoxProvider"
     }
 ]
