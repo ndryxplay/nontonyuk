@@ -1,7 +1,7 @@
 {
     "name": "NontonYuk",
     "description": "Cloudstream extensions collection",
-    "iconUrl": "https://avatars.githubusercontent.com/u/114850487?v=4",
+    "iconUrl": "https://raw.githubusercontent.com/ndryxplay/atharboy/refs/heads/main/ninja.png",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/ndryxplay/nontonyuk/refs/heads/builds/plugins.json"
