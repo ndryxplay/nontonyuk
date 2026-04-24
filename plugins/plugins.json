@@ -20,5 +20,27 @@
         "description": "Sflix - Movie & Series subtitle indonesia",
         "url": "https://raw.githubusercontent.com/ndryxplay/nontonyuk/builds/plugins/Sflix.cs3",
         "name": "Sflix"
+    },
+    {
+        "jarFileSize": 118422,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ndryxplay/nontonyuk",
+        "fileSize": 26476,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "nontonyuk"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "MovieBoxII",
+        "description": "Moviebox II (moviebox.ph - Movie & Series subtitle indonesia",
+        "url": "https://raw.githubusercontent.com/ndryxplay/nontonyuk/builds/plugins/MovieBoxII.cs3",
+        "name": "MovieBoxII"
     }
 ]
