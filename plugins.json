@@ -40,5 +40,26 @@
         "description": "Multi Language Movies and Series Provider",
         "url": "https://raw.githubusercontent.com/ndryxplay/nontonyuk/refs/heads/builds/MovieBoxProvider.cs3",
         "name": "MovieBoxProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
+        "fileHash": "sha256-0e52e6f1c6939d9f0fcda91968114eab4908718b9a3a20399304ca4d66853d2b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ndryxplay/nontonyuk",
+        "fileSize": 52543,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "nontonyuk"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 43,
+        "internalName": "Netmirror",
+        "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
+        "url": "https://raw.githubusercontent.com/ndryxplay/nontonyuk/refs/heads/builds/plugins/Netmirror.cs3",
+        "name": "Netmirror"
     }
 ]
