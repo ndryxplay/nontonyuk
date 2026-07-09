@@ -1,9 +1,9 @@
 {
-    "name": "MakaiCS",
+    "name": "MakaiREPO",
     "description": "Cloudstream extensions collection",
     "iconUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png?size=40",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/Makairamei/CS/refs/heads/builds/plugins.json"
+      "https://raw.githubusercontent.com/Makairamei/REPO/refs/heads/builds/plugins.json"
     ]
 }
