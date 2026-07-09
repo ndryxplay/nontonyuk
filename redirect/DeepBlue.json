@@ -1,1 +1,8 @@
-https://raw.githubusercontent.com/DeepBlue9789/cloudsync/refs/heads/main/plugins.json
+{
+  "name": "CloudSync",
+  "description": "CloudSync cross-device playback sync repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "hhttps://raw.githubusercontent.com/DeepBlue9789/cloudsync/refs/heads/main/plugins.json"
+  ]
+}
