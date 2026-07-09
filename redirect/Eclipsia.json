@@ -4,7 +4,7 @@
     "description": "movies from netmirror, cinefreak and cinestream",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/Eclipsia-Vault/eclipsia-cloudstream/refs/heads/main/plugins.json"
+      "https://raw.githubusercontent.com/Eclipsia-Vault/eclipsia-cloudstream/main/plugins.json"
     ]
 }
 
