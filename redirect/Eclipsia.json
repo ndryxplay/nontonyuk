@@ -1,1 +1,11 @@
-https://raw.githubusercontent.com/Eclipsia-Vault/eclipsia-cloudstream/refs/heads/main/plugins.json
+{
+    "name": "Eclipsia Vault",
+    "iconUrl": "https://avatars.githubusercontent.com/u/146099520?v=4&size=512",
+    "description": "movies from netmirror, cinefreak and cinestream",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/Eclipsia-Vault/eclipsia-cloudstream/refs/heads/main/plugins.json"
+    ]
+}
+
+
