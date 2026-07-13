@@ -1,0 +1,9 @@
+{
+    "name": "MahmoodPhis",
+    "description": "Cloudstream extensions collection",
+    "iconUrl": "https://github.githubassets.com/images/gravatars/gravatar-user-420.png?size=40",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/mahmoodnizamani94-png/cloudstream-extensions-phisher/refs/heads/builds/plugins.json"
+    ]
+}
